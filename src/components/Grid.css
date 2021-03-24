@@ -14,11 +14,3 @@
     border-top: none;
 }
 
-.grid > .row > .box {
-    border-left: 1em solid #333;
-    width: 10em;
-    height: 10em;
-}
-.grid > .row > .box:first-child {
-    border-left: none;
-}

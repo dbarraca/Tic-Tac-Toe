@@ -1,0 +1,9 @@
+.grid > .row > .gridSpot {
+    border-left: 1em solid #333;
+    width: 10em;
+    height: 10em;
+    background-color: #FBFBFB;
+}
+.grid > .row > .gridSpot:first-child {
+    border-left: none;
+}
